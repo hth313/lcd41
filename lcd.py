@@ -146,7 +146,7 @@ class LCD41(object):
        id="text8283"
        y="7.542324"
        x="2.5"
-       style="font-size:5.64444px;line-height:1.25;font-family:'HP41 Character Set Xtended';-inkscape-font-specification:'HP41 Character Set Xtended';stroke-width:0.264583"
+       style="font-size:6.08px;line-height:1.25;font-family:'HP41 Character Set Xtended';-inkscape-font-specification:'HP41 Character Set Xtended';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="7.542324"
