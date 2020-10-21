@@ -108,7 +108,7 @@ class LCD41(object):
        y="0"
        ry="0" />
     <rect
-       style="fill:#a3e8a4;stroke-width:0.264583;fill-opacity:1"
+       style="fill:#dbf0cb;stroke-width:0.264583;fill-opacity:1"
        id="rect7374"
        width="66"
        height="11"
